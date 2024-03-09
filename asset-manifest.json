@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/://Luck-shya.github.io/TheGoodGame-Theory/static/css/main.48bdddfd.css",
-    "main.js": "/://Luck-shya.github.io/TheGoodGame-Theory/static/js/main.1d876589.js",
-    "static/js/453.e31ce6f5.chunk.js": "/://Luck-shya.github.io/TheGoodGame-Theory/static/js/453.e31ce6f5.chunk.js",
-    "index.html": "/://Luck-shya.github.io/TheGoodGame-Theory/index.html",
-    "main.48bdddfd.css.map": "/://Luck-shya.github.io/TheGoodGame-Theory/static/css/main.48bdddfd.css.map",
-    "main.1d876589.js.map": "/://Luck-shya.github.io/TheGoodGame-Theory/static/js/main.1d876589.js.map",
-    "453.e31ce6f5.chunk.js.map": "/://Luck-shya.github.io/TheGoodGame-Theory/static/js/453.e31ce6f5.chunk.js.map"
+    "main.css": "/TheGoodGame-Theory/static/css/main.48bdddfd.css",
+    "main.js": "/TheGoodGame-Theory/static/js/main.06a328e9.js",
+    "static/js/453.e31ce6f5.chunk.js": "/TheGoodGame-Theory/static/js/453.e31ce6f5.chunk.js",
+    "index.html": "/TheGoodGame-Theory/index.html",
+    "main.48bdddfd.css.map": "/TheGoodGame-Theory/static/css/main.48bdddfd.css.map",
+    "main.06a328e9.js.map": "/TheGoodGame-Theory/static/js/main.06a328e9.js.map",
+    "453.e31ce6f5.chunk.js.map": "/TheGoodGame-Theory/static/js/453.e31ce6f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48bdddfd.css",
-    "static/js/main.1d876589.js"
+    "static/js/main.06a328e9.js"
   ]
 }
