@@ -1,0 +1,12 @@
+.landing {
+  background-color: #82b4f5;
+  padding: 10px;
+}
+.search {
+  color: #31304d;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 900;
+}
+.btn {
+  margin: 50px auto;
+}

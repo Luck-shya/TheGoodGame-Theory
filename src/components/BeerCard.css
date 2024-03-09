@@ -1,0 +1,52 @@
+.beer-card {
+  display: flex;
+  flex-direction: column;
+  width: 250px; /* Adjusted width to accommodate the larger image */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: #001c37;
+}
+.img {
+  background-color: white;
+  border-radius: 10px;
+}
+
+.beer-card img {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  object-fit: contain;
+  border-radius: 5px;
+}
+
+.beer-info {
+  padding-top: 10px;
+}
+
+.beer-name {
+  color: #f0edcf;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.beer-tagline {
+  font-style: italic;
+  color: #f0edcf;
+  margin-bottom: 10px;
+}
+
+.beer-description {
+  color: #40a2d8;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.beer-details {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: #f0edcf;
+  margin-top: auto; /* Push details to the bottom of the card */
+}
