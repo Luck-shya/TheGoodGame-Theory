@@ -1,4 +1,4 @@
-![alt text]!(https://github.com/Luck-shya/TheGoodGame-Theory/assets/64250608/5d4cb079-5816-4634-a8dc-b879944170b4)
+![alt text](https://github.com/Luck-shya/TheGoodGame-Theory/assets/64250608/5d4cb079-5816-4634-a8dc-b879944170b4)
 
 
 
